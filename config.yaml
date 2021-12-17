@@ -26,6 +26,10 @@ params:
   # GitHub repo URL of your site
   gitRepo: https://anihilakos.github.io/hackingallthethings/
   background: "images/background.jpg"
+  logo:
+    main: images/logo.jpg
+    inverted: images/logo.jpg
+    favicon: images/logo.jpg
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
