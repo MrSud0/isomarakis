@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/Anihilakos/hackingallthethings
+  gitRepo: https://anihilakos.github.io/hackingallthethings/
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
