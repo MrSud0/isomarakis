@@ -1,0 +1,13 @@
+# Copyright Notice
+copyright: © 2021 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal blog of Iason Somarakis
+
+customMenus:
+- name: Notes
+  url: https://hossainemruz.gitbook.io/notes/
+
+  customMenus:
+- name: Youtube
+  url: https://youtube.com
