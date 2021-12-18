@@ -49,7 +49,7 @@ badges:
 - type: soft-skill-indicator
   name: Problem Solving
   percentage: 95
-  coolor: green
+  color: green
 
 - type: soft-skill-indicator
   name: Team Work
