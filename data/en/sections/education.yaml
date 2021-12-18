@@ -10,8 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D student in Asset and Threat Emulation for Cybersecurity Training at School of Mathematics, Computer Sciences &
-Engineering
+- name: "Ph.D student in Asset and Threat Emulation for Cybersecurity Training at School of Mathematics, Computer Sciences & Engineering "
   icon: fa-microscope
   timeframe: 2019-2023
   institution:
