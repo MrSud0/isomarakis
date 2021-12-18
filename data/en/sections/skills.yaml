@@ -13,7 +13,7 @@ section:
 skills:
 - name: Python Development
   logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of designing, developing and testing python applications"
+  summary: "Capable of designing, developing and testing large python applications."
   url: "https://kubernetes.io/"
 
 - name: Penetration Testing
