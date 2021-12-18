@@ -38,14 +38,14 @@ projects:
   summary: Resilient Transport Infrastructure to Extreme Event. Worked on the security assurance of the RESIST platform.
   tags: ["professional", "academic", "penetration-testing"]
 
-- name: Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective
+- name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
   role: Lead Contributor and Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
   summary: Paper 1 description
   tags: ["academic","cyber-range"]
 
-- name: CYRA: A Model-Driven CYber Range Assurance Platform
+- name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
   role: Contributor and Developer
   timeline: "Oct 2019 - Dec 2019"
@@ -53,7 +53,7 @@ projects:
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
   tags: ["academic", "cyber-range"]
 
-- name: RNN-LSTM-Network-Intrusion
+- name: "RNN-LSTM-Network-Intrusion"
   logo: /images/sections/projects/toha.png
   role: Developer
   timeline: "Jun 2018 - July 2018"
