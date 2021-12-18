@@ -40,32 +40,38 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
+badges:
 - type: certification
   name: Offensive Pentesting Learning path
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
 
-- name: Problem Solving
+- type: soft-skill-indicator
+  name: Problem Solving
   percentage: 95
   coolor: green
 
-- name: Team Work
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 90
   color: blue
 
-- name: Hard Working
+- type: soft-skill-indicator
+  name: Hard Working
   percentage: 90
   color: orange
 
-- name: Leadership
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 85
   color: sky
 
-- name: Resourceful
+- type: soft-skill-indicator
+  name: Resourceful
   percentage: 95
   color: yellow
 
-- name: Proactive
+- type: soft-skill-indicator
+  name: Proactive
   percentage: 95
   color: pink
