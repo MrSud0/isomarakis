@@ -42,7 +42,7 @@ projects:
   role: Lead Contributor and Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
-  summary:
+  summary: Paper 1 description
   tags: ["academic","cyber-range"]
 
 - name: CYRA: A Model-Driven CYber Range Assurance Platform
