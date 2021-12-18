@@ -11,32 +11,114 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: SPHYNX Technology Solutions
+    url: "https://sphynx.ch"
+    location: Cyprus
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Security and privacy assessments
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior Security Engineer
+    start: August 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Managing and Designing SPHYNX's Cyber Range capabilities
+    - Developing the emulation (i.e., asset and threat) and infrastructure orchestration mechanisms of SPHYNX's Cyber Range
+    - Developing training content for SPHYNX's Cyber Range
+    - Managing, Designing and Developing SPHYNX's Penetration Testing capabilities
+    - SPHYNX's designated penetration tester
+    - Managing, Contributing and Developing on RESIST EU Project
+    - Managing, Contributing and Developing on HOLOBALANCE EU Project
+    - Managing and Contributing on AERAS EU Project
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: SPHYNX Technology Solutions
+    url: "https://sphynx.ch"
+    location: Cyprus
+    overview: Security and privacy assessments
+  positions:
+  - designation: Security Engineer
+    start: January 2020
+    end: August 2021
+    responsibilities:
+    - Designing SPHYNX's Cyber Range capabilities
+    - Developing the emulation (i.e., asset and threat) and infrastructure orchestration mechanisms of SPHYNX's Cyber Range
+    - Managing, Designing and Developing SPHYNX's Penetration Testing capabilities
+    - SPHYNX's designated penetration tester
+    - Managing, Contributing and Developing SPHYNX's effort for RESIST EU Project
+    - Managing, Contributing and Developing SPHYNX's effort for HOLOBALANCE EU Project
+    - Contributing and Developing SPHYNX's effort for THREAT ARREST EU Project
+
+- company:
+    name: SPHYNX Technology Solutions
+    url: "https://sphynx.ch"
+    location: Cyprus
+    overview: Security and privacy assessments
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: April 2018
+    end: January 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Managing, Designing and Developing SPHYNX's Penetration Testing capabilities
+    - SPHYNX's designated penetration tester
+    - Managing, Contributing and Developing SPHYNX's effort for RESIST EU Project
+    - Managing, Contributing and Developing SPHYNX's effort for HOLOBALANCE EU Project
+    - Contributing and Developing SPHYNX's effort for THREAT ARREST EU Project
+    - Contributing and Developing SPHYNX's effort for SEMIOTICS EU Project
+
+- company:
+    name: Curvature
+    url: "https://www.curvature.com/"
+    location: Netherlands
+    overview: Sales of new and refubrished IT hardware
+  positions:
+  - designation: IT Support Technician
+    start: April 2016
+    end: December 2016
+    responsibilities:
+    - Activities require interaction with application software and operating systems to diagnose and resolve problems.
+    - Assist staff with the installation, configuration, and ongoing usability of desktop computers, peripheral
+equipment and software within established standards and guidelines.
+    - Assist in the design and deployment of a standard OS and Software images
+    - Works with vendor support contacts to resolve technical problems with desktop computing equipment
+and software.
+    - Manages Help Desk request queue (Ticketing System, Knowledgebase, and Asset Management).
+    - Trains and orients staff on use of hardware and software.
+    - Performs upgrades on systems to ensure longevity.
+    - Assists in maintaining Voice related services
+    - Uphold all aspects of Curvature’s Information Security Management systems.
+
+- company:
+    name: Curvature
+    url: "https://www.curvature.com/"
+    location: Netherlands
+    overview: Sales of new and refubrished IT hardware
+  positions:
+  - designation: IT Support/Network Administrator Trainee
+    start: October 2015
+    end: April 2016
+    responsibilities:
+    - Activities require interaction with application software and operating systems to diagnose and resolve problems.
+    - Assist staff with the installation, configuration, and ongoing usability of desktop computers, peripheral
+equipment and software within established standards and guidelines.
+    - Assist in the design and deployment of a standard OS and Software images
+    - Works with vendor support contacts to resolve technical problems with desktop computing equipment
+and software.
+    - Manages Help Desk request queue (Ticketing System, Knowledgebase, and Asset Management).
+    - Trains and orients staff on use of hardware and software.
+    - Performs upgrades on systems to ensure longevity.
+    - Assists in maintaining Voice related services
+    - Uphold all aspects of Curvature’s Information Security Management systems.
+
+- company:
+    name: IPEKAT IKE
+    #url: "https://www.curvature.com/"
+    location: Greece
+    overview: Construction Services
+  positions:
+  - designation: Technician's assistant/IT Support
+    start: June 2013
+    end: June 2015
+    responsibilities:
+    - Responsible for management and maintenance of IT equipment
