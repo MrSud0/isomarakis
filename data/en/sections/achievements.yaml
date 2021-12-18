@@ -11,4 +11,5 @@ section:
 # Your achievements achievements
 achievements:
 - title: Employee of the year
-  image: logo.jpg
+  image: /images/logo.jpg
+  summary: Developer of the year for 2020 in SPHYNX Technology Solutions
