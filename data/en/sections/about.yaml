@@ -30,7 +30,7 @@ socialLinks:
   url: "https://github.com/Anihilakos"
 
 - name: Email
-  icon: "fab fa-envelope"
+  icon: "fas fa-envelope"
   url: "jason_somarakis@protonmail.com"
 
 - name: Hackthebox
