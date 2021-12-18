@@ -1,14 +1,14 @@
 # some information about you
 name: "Iason Somarakis"
-nickname: "H4T"
+#nickname: "H4T"
 image: "images/avatar.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 
 contactInfo:
-  email: "janedoe@example.com"
-  phone: "+0123456789"
+  email: "jason_somarakis@protonmail.com"
+  #phone: "+0123456789"
 
 
 # a summary of what you do

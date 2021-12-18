@@ -8,32 +8,64 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Security Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: SPHYNX TECHNOLOGY SOLUTIONS
+  url: "https://www.sphynx.ch/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am Iason Somarakis, I work as a senior security engineer, focusing on research, development and application of security solutions. With experience in penetration testing methodologies and tools, virtualization and containerization means and machine learning algorithms for enhanced proactive and reactive security mechanisms. Furthermore, he has an up to date view of the technological landscape and a diverse toolkit of programming languages, networking, and infrastructure as a code frameworks.
+My research interests involve different types of security assessments, specifically emulation technologies for cyber range training and offensive technologies for penetration testing and threat emulation.
+Last but not least, I find enjoy capture the flag activities, privacy related topics, cryptocurrencies, book reading and working out.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Anihilakos"
+
+- name: Email
+  icon: "fab fa-envelope"
+  url: "jason_somarakis@protonmail.com"
+
+- name: Hackthebox
+  icon: "fab fa-github"
+  url: "https://github.com/Anihilakos"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
+- type: certification
+  name: Offensive Pentesting Learning path
+  url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
+  badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
+
+- name: Problem Solving
+  percentage: 95
+  coolor: green
+
 - name: Team Work
   percentage: 90
+  color: blue
+
+- name: Hard Working
+  percentage: 90
+  color: orange
+
+- name: Leadership
+  percentage: 85
+  color: sky
+
+- name: Resourceful
+  percentage: 95
   color: yellow
+
+- name: Proactive
+  percentage: 95
+  color: pink
