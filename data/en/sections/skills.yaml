@@ -53,7 +53,7 @@ skills:
   url: "https://kubernetes.io/"
 
 - name: SQL
-  logo: "/images/sections/skills/postgresql.png"
+  logo: "/images/sections/skills/postgres.png"
   summary: "Proficient with SQL databases and concepts, specifically with PostgreSQL. Also, capable of working with PostGreSQL's triggers."
   url: "https://kubernetes.io/"
 
