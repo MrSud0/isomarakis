@@ -53,7 +53,7 @@ skills:
   url: "https://kubernetes.io/"
 
 - name: SQL
-  logo: "/images/sections/skills/postgresql.jpg"
+  logo: "/images/sections/skills/postgresql.png"
   summary: "Proficient with SQL databases and concepts, specifically with PostgreSQL. Also, capable of working with PostGreSQL's triggers."
   url: "https://kubernetes.io/"
 
@@ -63,6 +63,6 @@ skills:
   url: "https://www.linux.org/"
 
 - name: Windows
-  logo: "/images/sections/skills/windows.webp"
+  logo: "/images/sections/skills/windows.png"
   summary: "Capable of working and troubleshooting in a Windows Environment."
   url: "https://www.microsoft.com/en-us/windowsl"
