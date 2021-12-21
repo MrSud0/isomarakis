@@ -18,7 +18,7 @@ skills:
 
 - name: Penetration Testing
   logo: "/images/sections/skills/pentest.jpg"
-  summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience on
+  summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience
   on web applications, cloud, networks and active directory. Familiar with frameworks such as OWASP and standards such as PTES. "
   url: "https://kubernetes.io/"
 
