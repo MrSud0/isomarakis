@@ -12,66 +12,57 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python Development
-  logo: "/images/sections/skills/test.jpg"
+  logo: "/images/sections/skills/python.jpg"
   summary: "Capable of designing, developing and testing large python applications."
   url: "https://kubernetes.io/"
 
 - name: Penetration Testing
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Linux
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/pentest.jpg"
+  summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience on
+  on web applications, cloud, networks and active directory. Familiar with frameworks such as OWASP and standards such as PTES. "
   url: "https://kubernetes.io/"
 
 - name: Vagrant
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/vagrant.png"
+  summary: "Capable of working with Vagrant to orchestrate the deployment of virtual machines and containers. "
   url: "https://kubernetes.io/"
 
 - name: Ansible
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/ansible.png"
+  summary: "Capable of working with ansible to automate the provision of virtual machines and containers deployed by the Vagrant."
   url: "https://kubernetes.io/"
 
 - name: Docker
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/docker.png"
+  summary: "Capable of using the docker engine to deploy and manage docker containers and networks."
   url: "https://kubernetes.io/"
 
 - name: Virtualbox
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: RESTFul
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/vbox.png"
+  summary: "Capable of using VirtualBox to deploy and manage virtual machines and virtual networks."
   url: "https://kubernetes.io/"
 
 - name: DJango
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/django.jpg"
+  summary: "Proficient with intermidiate concepts for developing a Django application with a RESTful layer and connection to a relational database"
   url: "https://kubernetes.io/"
 
 - name: Git
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/git.png"
+  summary: "Capable of using git to control the versions of the developed software."
   url: "https://kubernetes.io/"
 
 - name: SQL
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  logo: "/images/sections/skills/postgresql.jpg"
+  summary: "Proficient with SQL databases and concepts, specifically with PostgreSQL. Also, capable of working with PostGreSQL's triggers."
   url: "https://kubernetes.io/"
 
-- name: Project management
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Linux
+  logo: "/images/sections/skills/linux.jpg"
+  summary: "Capable of working and troubleshooting in a Linux Environment. Having worked with KaliLinux, Debian, Ubuntu, and other distributions."
+  url: "https://www.linux.org/"
 
-- name: Team management
-  logo: "/images/sections/skills/test.jpg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Windows
+  logo: "/images/sections/skills/windows.webp"
+  summary: "Capable of working and troubleshooting in a Windows Environment."
+  url: "https://www.microsoft.com/en-us/windowsl"
