@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://anihilakos.github.io/hackingallthethings/
+  gitRepo: https://anihilakos.github.io/isomarakis/
   background: "images/site/background.jpg"
   logo:
     main: images/logo.jpg
