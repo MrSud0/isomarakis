@@ -11,3 +11,10 @@ customMenus:
   customMenus:
 - name: Youtube
   url: https://youtube.com
+
+openGraph:
+  title: Iason's personal web site
+  type: website
+  description: Portfolio and personal blog of John Doe.
+  #image: images/author/john.png
+  url: https://github.com/Anihilakos/isomarakis

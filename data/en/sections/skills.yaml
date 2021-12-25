@@ -24,12 +24,12 @@ skills:
 
 - name: Vagrant
   logo: "/images/sections/skills/vagrant.png"
-  summary: "Capable of working with Vagrant to orchestrate the deployment of virtual machines and containers. "
+  summary: "Capable of working with Vagrant to orchestrate the deployment of complex virtual machines and container based environments. "
   url: "https://www.vagrantup.com/"
 
 - name: Ansible
   logo: "/images/sections/skills/ansible.png"
-  summary: "Capable of working with ansible to automate the provision of virtual machines and containers deployed by the Vagrant."
+  summary: "Capable of working with ansible to automate the provision of virtual machines and containers deployed by Vagrant."
   url: "https://www.ansible.com/"
 
 - name: Docker
@@ -54,7 +54,7 @@ skills:
 
 - name: PostgreSQL
   logo: "/images/sections/skills/postgres.png"
-  summary: "Proficient with SQL databases and concepts, specifically with PostgreSQL. Also, capable of working with PostGreSQL's triggers."
+  summary: "Proficient with SQL databases and concepts. Primarily worked with PostgreSQL and development of triggers."
   url: "https://www.postgresql.org/"
 
 - name: Linux

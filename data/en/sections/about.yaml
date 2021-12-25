@@ -47,19 +47,26 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 badges:
 - type: certification
-  name: tryhackme
+  name: TryHackme Profile
   url: https://tryhackme-badges.s3.amazonaws.com/mimicx32.png
   badge: https://tryhackme-badges.s3.amazonaws.com/mimicx32.png
 
 - type: certification
-  name: hackthebox
-  url: https://www.hackthebox.com/badge/image/29490
-  badge: https://www.hackthebox.com/badge/image/29490
+  name: TryHackme Advent of Cyber 2021
+  url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
+  badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
 
 - type: certification
   name: Offensive Pentesting Learning path
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
+
+
+- type: certification
+  name: HackTheBox Profile
+  url: https://www.hackthebox.com/badge/image/29490
+  badge: https://www.hackthebox.com/badge/image/29490
+
 
 - type: soft-skill-indicator
   name: Problem Solving
