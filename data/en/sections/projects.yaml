@@ -66,7 +66,7 @@ projects:
   role: Lead author and maintainer
   timeline: "Dec 2021"
   repo: https://github.com/Anihilakos/hackingallthethings
-  summary: Personal page that accumulates resources for penetration testers, red teamers,
+  summary: "Personal page that accumulates resources for penetration testers, red teamers,
   CTF players and generally security and privacy enthusiasts. Its maintained by myself in an
-  attempt to help people around the world and provide a centralized place to access technical information about security.
+  attempt to help people around the world and provide a centralized place to access technical information about security."
   tags: ["hobby","open-source","penetration-testing","privacy"]
