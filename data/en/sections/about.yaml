@@ -35,7 +35,7 @@ socialLinks:
 
 - name: Hackthebox
   icon: "fab fa-github"
-  url: "https://www.hackthebox.com/home/users/profile/29490"
+  url: "https://app.hackthebox.com/profile/29490"
 
 - name: Tryhackme
   icon: "fab fa-github"
@@ -52,8 +52,8 @@ badges:
 
 - type: certification
   name: hackthebox
-  url: http://www.hackthebox.eu/badge/image/29490
-  badge: http://www.hackthebox.eu/badge/image/29490
+  url: https://www.hackthebox.com/badge/image/29490
+  badge: https://www.hackthebox.com/badge/image/29490
 
 - type: certification
   name: Offensive Pentesting Learning path
