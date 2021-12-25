@@ -34,11 +34,11 @@ socialLinks:
   url: "jason_somarakis@protonmail.com"
 
 - name: Hackthebox
-  icon: "fab fa-github"
+  #icon: "fab fa-github"
   url: "https://app.hackthebox.com/profile/29490"
 
 - name: Tryhackme
-  icon: "fab fa-github"
+  #icon: "fab fa-github"
   url: "https://tryhackme.com/p/mimicx32"
 
 # your soft skills
