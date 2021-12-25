@@ -33,7 +33,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://anihilakos.github.io/isomarakis/
-  background: "images/logo.jpg"
+  background: "images/site/background.jpg"
   logo:
     main: "images/avatar.svg"
     inverted: "images/avatar.svg"
