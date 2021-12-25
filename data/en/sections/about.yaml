@@ -35,12 +35,26 @@ socialLinks:
 
 - name: Hackthebox
   icon: "fab fa-github"
-  url: "https://github.com/Anihilakos"
+  url: "https://www.hackthebox.com/home/users/profile/29490"
+
+- name: Tryhackme
+  icon: "fab fa-github"
+  url: "https://tryhackme.com/p/mimicx32"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 badges:
+- type: certification
+  name: tryhackme
+  url: https://tryhackme-badges.s3.amazonaws.com/mimicx32.png
+  badge: https://tryhackme-badges.s3.amazonaws.com/mimicx32.png
+
+- type: certification
+  name: hackthebox
+  url: http://www.hackthebox.eu/badge/image/29490
+  badge: http://www.hackthebox.eu/badge/image/29490
+
 - type: certification
   name: Offensive Pentesting Learning path
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
