@@ -18,8 +18,9 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am Iason Somarakis, I work as a senior security engineer, focusing on research, development and application of security solutions. With experience in penetration testing methodologies and tools, virtualization and containerization means and machine learning algorithms for enhanced proactive and reactive security mechanisms. Furthermore, he has an up to date view of the technological landscape and a diverse toolkit of programming languages, networking, and infrastructure as a code frameworks.
-My research interests involve different types of security assessments, specifically emulation technologies for cyber range training and offensive technologies for penetration testing and threat emulation.
+summary: 'I am Iason Somarakis, I work as a senior security engineer, focusing on research, development and application of security solutions. With experience in penetration testing methodologies and tools, virtualization and containerization frameworks and machine learning algorithms for enhanced proactive and reactive security mechanisms.
+Furthermore, I have an up to date view of the technological landscape and a diverse toolkit of programming languages, networking, and infrastructure as a code frameworks.
+My research interests involve different types of security assessments, specifically cyber range training and offensive technologies for penetration testing and threat emulation.
 Last but not least, I enjoy capture the flag activities, privacy related topics, cryptocurrencies, reading novels and working out.'
 
 # your social links
