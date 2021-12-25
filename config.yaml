@@ -33,11 +33,11 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://anihilakos.github.io/isomarakis/
-  background: "images/site/background.jpg"
+  background: "images/logo.jpg"
   logo:
-    main: images/logo.jpg
-    inverted: images/logo.jpg
-    favicon: images/logo.jpg
+    main: "images/avatar.svg"
+    inverted: "images/avatar.svg"
+    favicon: "images/avatar.svg"
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
