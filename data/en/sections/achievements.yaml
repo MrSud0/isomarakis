@@ -11,7 +11,7 @@ section:
 # Your achievements achievements
 achievements:
 - title: Employee of the year
-  image: images/sections/achievements/employee.jpg
+  image: images/sections/skills/ansible.png
   summary: Developer of the year for 2020 in SPHYNX Technology Solutions
 - title: Wing Chun instructor
   image: images/sections/achievements/wing-chun.jpg
