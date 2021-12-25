@@ -11,9 +11,9 @@ section:
 # Your achievements achievements
 achievements:
 - title: Employee of the year
-  image: 'assets\images\sections\achievements\employee.jpg'
+  image: "images\sections\achievements\employee.jpg"
   summary: Developer of the year for 2020 in SPHYNX Technology Solutions
 
 - title: Wing Chun instructor
-  image: 'assets\images\sections\achievements\wing-chun.jpg'
+  image: "images\sections\achievements\wing-chun.jpg"
   summary: Wing Chun instructor for Heraklion's school of Gary Lam Wing Chun
