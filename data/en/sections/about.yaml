@@ -82,8 +82,8 @@ badges:
   color: sky
 
 - type: soft-skill-indicator
-  name: Resourceful
-  percentage: 95
+  name: Keen to Learn
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
