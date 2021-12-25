@@ -17,7 +17,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: Penetration Testing
-  logo: "/images/sections/skills/pentest2.jpg"
+  logo: "/images/sections/skills/pentest2.png"
   summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience
   on web applications, cloud, networks and active directory. Hands-on experience with multiple tools such as Metasploit Framework, Nmap, Burp,
   Familiar with frameworks such as OWASP and standards such as PTES. "
