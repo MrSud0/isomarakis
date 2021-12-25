@@ -43,7 +43,7 @@ skills:
   url: "https://www.virtualbox.org/"
 
 - name: DJango
-  logo: "/images/sections/skills/django2.jpg"
+  logo: "/images/sections/skills/django2.png"
   summary: "Proficient with intermidiate concepts for developing a Django application with a RESTful layer and a connection to a relational database"
   url: "https://www.djangoproject.com/"
 
