@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: HOLOBALANCE
-  logo: /images/sections/projects/holobalance.gif
+  #logo: /images/sections/projects/holobalance.gif
   role: Developer and Project Manager
   timeline: "March 2018 - December 2021"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -31,7 +31,7 @@ projects:
   tags: ["professional", "academic", "android","unity3D", "penetration-testing"]
 
 - name: RESIST
-  logo: /images/sections/projects/resist.JPG
+  #logo: /images/sections/projects/resist.JPG
   role: Developer and Project Manager
   timeline: "Jun 2018 - Present"
   url: "https://www.resistproject.eu/"
