@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "ISOMARAKIS (under development)"
+title: "ISomarakis"
 theme: "toha"
 
 # Manage languages
@@ -31,7 +31,7 @@ params:
     inverted: images/logo.jpg
     favicon: images/logo.jpg
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
@@ -39,4 +39,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
