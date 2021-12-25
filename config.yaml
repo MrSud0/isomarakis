@@ -11,6 +11,14 @@ languages:
     languageName: English
     weight: 1
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+googleAnalytics: G-W6ZB1ZF7SK
+
 # Control TOC depth
 markup:
   tableOfContents:
