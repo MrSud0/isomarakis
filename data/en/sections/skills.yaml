@@ -13,7 +13,7 @@ section:
 skills:
 - name: Python Development
   logo: "/images/sections/skills/python.jpg"
-  summary: "Capable of designing, developing and testing enterprise python applications."
+  summary: "Capable of designing, developing and testing enterprise python applications. With great experience on multiple frameworks, for RESTful applications (e.g., DJango, Flask), data manipulation (e.g., numpy, pandas), machine learning (e.g., sklearn) and deep learning (e.g., keras)."
   url: "https://www.python.org/"
 
 - name: Penetration Testing
@@ -44,7 +44,7 @@ skills:
 
 - name: DJango
   logo: "/images/sections/skills/django2.jpg"
-  summary: "Proficient with intermidiate concepts for developing a Django application with a RESTful layer and connection to a relational database"
+  summary: "Proficient with intermidiate concepts for developing a Django application with a RESTful layer and a connection to a relational database"
   url: "https://www.djangoproject.com/"
 
 - name: Git
