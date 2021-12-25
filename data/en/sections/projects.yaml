@@ -36,13 +36,13 @@ projects:
   timeline: "Jun 2018 - Present"
   url: "https://www.resistproject.eu/"
   summary: Resilient Transport Infrastructure to Extreme Event. Worked on the security assurance of the RESIST platform.
-  tags: ["professional", "academic", "penetration-testing"]
+  tags: ["professional", "academic", "drones", "penetration-testing"]
 
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
   role: Lead Contributor and Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
-  #summary:
+  summary: Paper for our novel approach in specificing cyber range training scenarios and using the interworkings wih SPHYNX's security assurance model.
   tags: ["academic","cyber-range"]
 
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
@@ -50,7 +50,7 @@ projects:
   role: Contributor and Developer
   timeline: "Oct 2019 - Dec 2019"
   url: "https://www.mdpi.com/2076-3417/11/11/5165"
-  #summary:
+  summary: Paper with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the scenarios to adapt based on the organizations security & privacy posture.
   tags: ["academic", "cyber-range"]
 
 - name: "RNN-LSTM-Network-Intrusion"

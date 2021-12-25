@@ -17,7 +17,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: Penetration Testing
-  logo: "/images/sections/skills/pentest.jpg"
+  logo: "/images/sections/skills/pentest2.jpg"
   summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience
   on web applications, cloud, networks and active directory. Hands-on experience with multiple tools such as Metasploit Framework, Nmap, Burp,
   Familiar with frameworks such as OWASP and standards such as PTES. "
@@ -43,7 +43,7 @@ skills:
   url: "https://www.virtualbox.org/"
 
 - name: DJango
-  logo: "/images/sections/skills/django.jpg"
+  logo: "/images/sections/skills/django2.jpg"
   summary: "Proficient with intermidiate concepts for developing a Django application with a RESTful layer and connection to a relational database"
   url: "https://www.djangoproject.com/"
 
