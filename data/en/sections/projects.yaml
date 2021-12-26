@@ -38,7 +38,6 @@ projects:
   summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
   tags: ["professional", "academic", "drones", "penetration-testing"]
 
-
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
   role: Contributor and Developer
