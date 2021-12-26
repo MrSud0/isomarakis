@@ -10,9 +10,10 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Employee of the year
-  image: images/sections/achievements/employee.jpg
-  summary: Developer of the year for 2020 in SPHYNX Technology Solutions
-- title: Wing Chun instructor
-  image: images/sections/achievements/wing-chun.jpg
-  summary: Wing Chun instructor for Heraklion's school of Gary Lam Wing Chun
+- title: 'Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective'
+  image: images/modelcr.png
+  summary: 'Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model.'
+- title: 'CYRA: A Model-Driven CYber Range Assurance Platform'
+  image: images/cyra.png
+  summary: 'Publication with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the
+  scenarios to adapt based on the organizations security & privacy posture.'

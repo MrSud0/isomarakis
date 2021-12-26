@@ -27,7 +27,7 @@ projects:
   timeline: "March 2018 - December 2021"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://holobalance.eu/"
-  summary: HOLOgrams for personalised virtual coaching and motivation in an ageing population with BALANCE disorders. Worked on an educational android game and on the security assurance of HOLOBALANCE platform
+  summary: HOLOgrams for personalised virtual coaching and motivation in an ageing population with BALANCE disorders. Primarily worked on an educational android game and on the security assurance of HOLOBALANCE platform
   tags: ["professional", "academic", "android","unity3D", "penetration-testing"]
 
 - name: RESIST
@@ -35,14 +35,14 @@ projects:
   role: Developer and Project Manager
   timeline: "Jun 2018 - Present"
   url: "https://www.resistproject.eu/"
-  summary: Resilient Transport Infrastructure to Extreme Event. Worked on the security assurance of the RESIST platform.
+  summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
   tags: ["professional", "academic", "drones", "penetration-testing"]
 
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
   role: Lead Contributor and Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
-  summary: Paper for our novel approach in specificing cyber range training scenarios and using the interworkings wih SPHYNX's security assurance model.
+  summary: 'Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them.'
   tags: ["academic","cyber-range"]
 
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
@@ -50,7 +50,8 @@ projects:
   role: Contributor and Developer
   timeline: "Oct 2019 - Dec 2019"
   url: "https://www.mdpi.com/2076-3417/11/11/5165"
-  summary: Paper with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the scenarios to adapt based on the organizations security & privacy posture.
+  summary: 'Publication with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the
+  scenarios to adapt based on the organizations security & privacy posture. Focused on the development of the adaptation mechanisms based on vulnerabilities.'
   tags: ["academic", "cyber-range"]
 
 - name: "RNN-LSTM-Network-Intrusion"
@@ -58,7 +59,7 @@ projects:
   role: Lead author and developer
   timeline: "Jun 2018 - July 2018"
   repo: https://github.com/Anihilakos/RNN-LSTM-Network-Intrusion
-  summary: A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort.
+  summary: A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort. 
   tags: ["academic","bachelor-thesis","deep-learning","network-intrusion-detection"]
 
 - name: "Hackingallthethings"
