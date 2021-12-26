@@ -72,17 +72,15 @@ badges:
 - type: certification
   name: ""
 
-
-
 - type: soft-skill-indicator
   name: Problem Solving
-  #percentage: 95
-  #color: green
+  percentage: 100
+  color: green
 
 - type: soft-skill-indicator
   name: Team Work
-  #percentage: 90
-  #color: blue
+  percentage: 100
+  color: blue
 
 - type: soft-skill-indicator
   name: Hard Working
