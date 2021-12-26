@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Other Achievements
+  name: Publications
   id: achievements
-  enable: true
+  enable: false
   weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
