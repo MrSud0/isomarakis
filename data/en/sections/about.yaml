@@ -59,20 +59,6 @@ badges:
 - type: certification
   name: ""
 
-- type: certification
-  name: TryHackme Advent of Cyber 2021
-  url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
-  badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
-
-- type: certification
-  name: Offensive Pentesting Learning path
-  url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
-  badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
-
-
-- type: certification
-  name: ""
-
 - type: soft-skill-indicator
   name: Problem Solving
   percentage: 100
