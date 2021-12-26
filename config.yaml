@@ -36,7 +36,7 @@ params:
   gitRepo: https://anihilakos.github.io/isomarakis/
   background: "images/site/background.jpg"
   logo:
-    main: "images/avatar.p"
+    main: "images/avatar.svg"
     inverted: "images/avatar.svg"
     favicon: "images/avatar.svg"
   # specify whether you want to write some blog posts or not
