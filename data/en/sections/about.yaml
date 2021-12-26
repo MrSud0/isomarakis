@@ -62,9 +62,6 @@ badges:
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
 
 - type: certification
-  name: ""
-
-- type: certification
   name: HackTheBox Profile
   url: https://www.hackthebox.com/badge/image/29490
   badge: https://www.hackthebox.com/badge/image/29490
@@ -72,16 +69,20 @@ badges:
 - type: certification
   name: ""
 
+- type: certification
+  name: ""
+
+
 
 - type: soft-skill-indicator
   name: Problem Solving
   #percentage: 95
-  color: green
+  #color: green
 
 - type: soft-skill-indicator
   name: Team Work
   #percentage: 90
-  color: blue
+  #color: blue
 
 - type: soft-skill-indicator
   name: Hard Working
