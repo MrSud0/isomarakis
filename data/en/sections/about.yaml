@@ -70,12 +70,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 95
+  #percentage: 95
   color: green
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  #percentage: 90
   color: blue
 
 - type: soft-skill-indicator
