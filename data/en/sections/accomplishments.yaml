@@ -43,42 +43,42 @@ accomplishments:
   courseOverview: "Summer school with theme 'The Challenge of the Changing Risk Landscape' with hands-on workshop on incident handling. "
   certificateURL: "https://drive.google.com/file/d/1eM9c1Lul8aukMXlD5AbG92h9Y7UsUO9q/view?usp=sharing"
 
-  - name: Penetration Testing and Ethical Hacking
-    timeline: "October 2018"
-    organization:
-      name: Cybrary
-      url: https://app.cybrary.it
-    courseOverview: "Course that teaches the basic to advanced topics of ethnical hacking, from methodology to common tools and techniques."
-    certificateURL: "https://app.cybrary.it/courses/api/certificate/C-c61f1a18c3-a2f5b1/view"
+- name: Penetration Testing and Ethical Hacking
+  timeline: "October 2018"
+  organization:
+    name: Cybrary
+    url: https://app.cybrary.it
+  courseOverview: "Course that teaches the basic to advanced topics of ethnical hacking, from methodology to common tools and techniques."
+  certificateURL: "https://app.cybrary.it/courses/api/certificate/C-c61f1a18c3-a2f5b1/view"
 
-  - name: Python for Security Profesionals
-    timeline: "October 2018"
-    organization:
-      name: Cybrary
-      url: https://app.cybrary.it
-    courseOverview: "Course that teaches the fundamentals of Python, focusing on libaries for data and packet-level manipulation."
-    #certificateURL: "https://example.com"
+- name: Python for Security Profesionals
+  timeline: "October 2018"
+  organization:
+    name: Cybrary
+    url: https://app.cybrary.it
+  courseOverview: "Course that teaches the fundamentals of Python, focusing on libaries for data and packet-level manipulation."
+  #certificateURL: "https://example.com"
 
-  - name: The Ultimate Ethical Hacking Course 2017
-    timeline: "October 2017"
-    organization:
-      name: Udemy
-      url: https://www.udemy.com
-    courseOverview: "Course that teaches from fundamentals to advanced concepts of ethnical hacking with ephasis on real world applications. "
-    certificateURL: "https://www.udemy.com/certificate/UC-XRNM4HIJ/"
+- name: The Ultimate Ethical Hacking Course 2017
+  timeline: "October 2017"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "Course that teaches from fundamentals to advanced concepts of ethnical hacking with ephasis on real world applications. "
+  certificateURL: "https://www.udemy.com/certificate/UC-XRNM4HIJ/"
 
-  - name: Neural Networks and Deep Learning
-    timeline: "September 2017"
-    organization:
-      name: Udemy
-      url: https://www.udemy.com
-    courseOverview: "Course by DeepLearning.AI that teaches the inner workings of Neural Networks and introduces the core building blocks on developing one in Python."
-    certificateURL: "https://www.coursera.org/account/accomplishments/verify/AX7EC2SQX9KD"
+- name: Neural Networks and Deep Learning
+  timeline: "September 2017"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "Course by DeepLearning.AI that teaches the inner workings of Neural Networks and introduces the core building blocks on developing one in Python."
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/AX7EC2SQX9KD"
 
-  - name: EU Scholarship - Android Development for Beginners
-    timeline: "January 2017"
-    organization:
-      name: Udacity
-      url: https://www.udemy.com
-    courseOverview: This course focuses on the basics of android developing, with zero hands-on experience towards building your first applications.
-    #certificateURL: "https://www.udacity.com/"
+- name: EU Scholarship - Android Development for Beginners
+  timeline: "January 2017"
+  organization:
+    name: Udacity
+    url: https://www.udemy.com
+  courseOverview: This course focuses on the basics of android developing, with zero hands-on experience towards building your first applications.
+  #certificateURL: "https://www.udacity.com/"
