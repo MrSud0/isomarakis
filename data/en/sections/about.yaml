@@ -61,10 +61,8 @@ badges:
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
 
-
 - type: certification
-  name: HackTheBox Profile
-
+  name: ""
 
 - type: certification
   name: HackTheBox Profile
@@ -72,10 +70,7 @@ badges:
   badge: https://www.hackthebox.com/badge/image/29490
 
 - type: certification
-  name: HackTheBox Profile
-
-- type: certification
-  name: HackTheBox Profile
+  name: ""
 
 
 - type: soft-skill-indicator
