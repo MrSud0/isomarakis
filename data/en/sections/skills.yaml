@@ -34,7 +34,7 @@ skills:
 
 - name: Docker
   logo: "/images/sections/skills/docker.png"
-  summary: "Capable of using the docker engine to deploy and manage docker containers and networks."
+  summary: "Capable of using the docker engine and docker-compose to deploy and manage docker containers and networks."
   url: "https://www.docker.com/"
 
 - name: Virtualbox
@@ -49,20 +49,21 @@ skills:
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Capable of using git to manage the developement circle of software."
+  summary: "Capable of using git to manage the developement circle of software. Familiar with most well know git workflows. (e.g., Centralized, Feature Branch)"
   url: "https://git-scm.com/"
 
 - name: PostgreSQL
   logo: "/images/sections/skills/postgres.png"
-  summary: "Proficient with SQL databases and concepts. Primarily worked with PostgreSQL and development of triggers."
+  summary: "Proficient with SQL databases and concepts. Primarily worked with PostgreSQL and development of PSQL triggers."
   url: "https://www.postgresql.org/"
 
-- name: Linux
+- name: Kali Linux
   logo: "/images/sections/skills/linux.jpg"
-  summary: "Capable of working and troubleshooting in a Linux Environment. Having worked with KaliLinux, Debian, Ubuntu, and other distributions."
+  summary: "Proficient on working and troubleshooting in a Linux Environment. Having worked with KaliLinux, Debian, Ubuntu, and other distributions."
   url: "https://www.linux.org/"
 
-- name: Windows
-  logo: "/images/sections/skills/windows.png"
-  summary: "Capable of working and troubleshooting in a Windows Environment."
-  url: "https://www.microsoft.com/en-us/windowsl"
+
+# - name: Windows
+#   logo: "/images/sections/skills/windows.png"
+#   summary: "Proficient on working and troubleshooting in a Windows Environment. Comfortable with forensics investigation in Windows Environment "
+#   url: "https://www.microsoft.com/en-us/windowsl"
