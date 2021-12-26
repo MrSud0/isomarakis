@@ -64,8 +64,18 @@ badges:
 
 - type: certification
   name: HackTheBox Profile
+
+
+- type: certification
+  name: HackTheBox Profile
   url: https://www.hackthebox.com/badge/image/29490
   badge: https://www.hackthebox.com/badge/image/29490
+
+- type: certification
+  name: HackTheBox Profile
+
+- type: certification
+  name: HackTheBox Profile
 
 
 - type: soft-skill-indicator
@@ -80,12 +90,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 90
+  percentage: 100
   color: orange
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 100
   color: sky
 
 - type: soft-skill-indicator
@@ -95,5 +105,5 @@ badges:
 
 - type: soft-skill-indicator
   name: Project Management
-  percentage: 85
+  percentage: 100
   color: pink
