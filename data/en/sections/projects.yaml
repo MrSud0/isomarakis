@@ -37,6 +37,12 @@ projects:
   url: "https://www.resistproject.eu/"
   summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
   tags: ["professional", "academic", "drones", "penetration-testing"]
+- name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
+  role: Lead Contributor and Developer
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
+  summary: "Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them."
+  tags: ["academic","cyber-range"]
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
   role: Contributor and Developer
@@ -45,12 +51,7 @@ projects:
   summary: "Publication with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the
   scenarios to adapt based on the organizations security & privacy posture. Focused on the development of the adaptation mechanisms based on vulnerabilities."
   tags: ["academic", "cyber-range"]
-- name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
-  role: Lead Contributor and Developer
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
-  summary: "Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them."
-  tags: ["academic","cyber-range"]
+
 
 - name: "RNN-LSTM-Network-Intrusion"
   logo: /images/sections/projects/toha.png
