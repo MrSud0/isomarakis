@@ -52,6 +52,11 @@ badges:
   badge: https://tryhackme-badges.s3.amazonaws.com/mimicx32.png
 
 - type: certification
+  name: HackTheBox Profile
+  url: https://www.hackthebox.com/badge/image/29490
+  badge: https://www.hackthebox.com/badge/image/29490
+
+- type: certification
   name: TryHackme Advent of Cyber 2021
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
@@ -61,10 +66,6 @@ badges:
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8YUMV0S6S.png
 
-- type: certification
-  name: HackTheBox Profile
-  url: https://www.hackthebox.com/badge/image/29490
-  badge: https://www.hackthebox.com/badge/image/29490
 
 - type: certification
   name: ""
