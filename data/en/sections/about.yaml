@@ -36,6 +36,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "jason_somarakis@protonmail.com"
 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/iason-somarakis-493474100"
+
 - name: Hackthebox
   icon: "fab fa-stack-overflow"
   url: "https://app.hackthebox.com/profile/29490"

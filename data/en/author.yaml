@@ -9,7 +9,7 @@ greeting: "Hi, I am"
 contactInfo:
   email: "jason_somarakis@protonmail.com"
   github: "https://github.com/Anihilakos/"
-  linkedin: Iason Somarakis
+  linkedin: 'www.linkedin.com/in/iason-somarakis-493474100'
 
 
 # a summary of what you do
@@ -17,4 +17,4 @@ summary:
 - Penetration Tester
 - Security Engineer
 - CTF Enthusiast
-- Curious
+- Privacy Advocate
