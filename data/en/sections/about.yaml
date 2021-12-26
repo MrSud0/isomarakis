@@ -57,6 +57,9 @@ badges:
   badge: https://www.hackthebox.com/badge/image/29490
 
 - type: certification
+  name: ""
+
+- type: certification
   name: TryHackme Advent of Cyber 2021
   url: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
   badge: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CZRAPFTRIC.png
