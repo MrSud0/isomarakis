@@ -19,8 +19,8 @@ skills:
 - name: Penetration Testing
   logo: "/images/sections/skills/pentest2.png"
   summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience
-  on web applications, cloud, networks and active directory. Hands-on experience with multiple tools such as Metasploit Framework, Nmap, Burp,
-  Familiar with frameworks such as OWASP and standards such as PTES. "
+  on web applications, android, cloud and active directory and multiple tools and frameworks, such as Metasploit Framework, Nmap, Burp, Hydra, and sqlmap.
+  At last, familiar with frameworks such as OWASP and standards such as PTES. "
 
 - name: Vagrant
   logo: "/images/sections/skills/vagrant.png"
