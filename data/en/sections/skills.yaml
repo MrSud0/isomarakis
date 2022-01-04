@@ -24,7 +24,7 @@ skills:
 
 - name: Vagrant
   logo: "/images/sections/skills/vagrant.png"
-  summary: "Capable of working with Vagrant to orchestrate the deployment of complex virtual machines and container based environments. "
+  summary: "Capable of working with Vagrant to orchestrate the deployment of complex virtualized and containerized environments. "
   url: "https://www.vagrantup.com/"
 
 - name: Ansible
