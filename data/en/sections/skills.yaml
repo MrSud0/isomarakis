@@ -19,13 +19,13 @@ skills:
 - name: Penetration Testing
   logo: "/images/sections/skills/pentest2.png"
   summary: "Capable of organizing, orchestrating and executing end-to-end penetration testing assessments (black/white box). With hands-on experience
-  on web applications, android, infrastructure, cloud and active directory, as part of multiple EU Projects (e.g., THREAT ARREST, SMART BEAR, RESIST, HOLOBALANCE) and CTF-Like platforms (e.g., HackTheBox, TryHackMe).
+  on web applications, android, infrastructure, cloud and active directory, as part of multiple EU Projects (i.e., THREAT ARREST, SMART BEAR, RESIST, HOLOBALANCE) and CTF-Like platforms (e.g., HackTheBox, TryHackMe).
   The engagements were accomplished with multiple tools and frameworks, such as Burp, Metasploit Framework, Nmap, Hydra, and SQLMap, and custom exploitation in Python, C, Ruby and Bash.
   At last, familiar with frameworks such as OWASP Top 10 for Mobile, Web and APIs and standards such as PTES, and NIST's. "
 
 - name: C# and Unity3D
   logo: "/images/sections/skills/unity.png"
-  Summary: "Capable of working on Unity3D with C# for android game development. Also, experienced in Augmented Reality development in Unity3D with Vuforia SDK. This skill was demonstrated in HOLOBALANCE EU Project."
+  summary: "Capable of working on Unity3D with C Sharp for android game development. Also, experienced in Augmented Reality development in Unity3D with Vuforia SDK. This skill was demonstrated in HOLOBALANCE EU Project."
 
 - name: Vagrant
   logo: "/images/sections/skills/vagrant.png"
