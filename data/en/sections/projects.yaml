@@ -89,8 +89,8 @@ projects:
   role: Lead author and developer
   timeline: "Jun 2018 - July 2018"
   repo: https://github.com/Anihilakos/RNN-LSTM-Network-Intrusion
-  summary: A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort. Developed in Python with well known frameworks, such
-  as Keras, Numpy, SciLearn and trained using well-known dataset NSL-KDD99.
+  summary: "A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort. Developed in Python with well known frameworks, such
+  as Keras, Numpy, SciLearn and trained using well-known dataset NSL-KDD99."
   tags: ["academic","bachelor thesis","deep learning","network intrusion detection", "python"]
 
 - name: "Hackingallthethings"
