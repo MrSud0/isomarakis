@@ -57,7 +57,7 @@ projects:
    adequately prepare stakeholders with different types of responsibility and levels of expertise in defending high-risk cyber systems and organizations to
    counter advanced, known and new cyber-attacks. Primarily worked on the security assurance (i.e., Penetration testing) of THREAT ARREST's Pilot organizations, involving the assessment of backend infrastructure (i.e., containers and physical machines) and web applications.
    Also, worked on the development of the models for the cyber range training scenarios and programmes, and on the development of the scenario/programme adaptation mechanisms."
-  tags: ["professional", "academic", "cyber-range", "penetration-testing", "java". "sql"]
+  tags: ["professional", "academic", "cyber-range", "penetration testing", "java", "sql"]
 
 - name: SMART BEAR
   #logo: /images/sections/projects/resist.JPG
@@ -65,7 +65,7 @@ projects:
   timeline: "Jun 2018 - Present"
   url: "https://www.smart-bear.eu/"
   summary: "Smart Big Data Platform to Offer Evidence-based Personalised Support for Healthy and Independent Living at Home. Primarily worked on the security assurance of (i.e., Penetration testing) of SMART BEAR platform, involving the assessment of front-facing web applications and REST APIs."
-  tags: ["professional", "academic", "healthcare", penetration testing"]
+  tags: ["professional", "academic", "healthcare", "penetration testing"]
 
 
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
@@ -73,7 +73,7 @@ projects:
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
   summary: "Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them."
-  tags: ["academic","cyber range", "Python"]
+  tags: ["academic","cyber range", "python"]
 
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
