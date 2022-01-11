@@ -18,6 +18,8 @@ buttons:
   filter: "academic"
 - name: Hobby
   filter: "hobby"
+- name: Penetration Testing
+  filter: "penetration testing"
 
 # your projects
 projects:
@@ -28,21 +30,21 @@ projects:
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://holobalance.eu/"
   summary: HOLOgrams for personalised virtual coaching and motivation in an ageing population with BALANCE disorders. Primarily worked on an educational android game and on the security assurance (i.e., Penetration Testing) of HOLOBALANCE platform, involving the assessment of backend infrastructure, web front facing applications, REST APIs, android applications, python applications and bluetooth devices.
-  tags: ["professional", "academic", "android development","unity3D","C#", "penetration-testing"]
+  tags: ["professional", "academic", "healthcare", "android","unity3D","C#", "penetration testing"]
 
 - name: RESIST
   logo: /images/sections/projects/resist.JPG
   role: Developer, Penetration Tester, Project Manager
   timeline: "Jun 2018 - Present"
   url: "https://www.resistproject.eu/"
-  summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance (i.e., Penetration Testing) of the RESIST platform, involving the assessment of backend infrastructure (e.g., ProxMox virtual machines), web front facing applications, REST APIs, and drones.
-  tags: ["professional", "academic", "drones", "penetration-testing"]
+  summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance (i.e., Penetration Testing, project wide security recommendations) of the RESIST platform, involving the assessment of backend infrastructure (e.g., ProxMox virtual machines), front-facing web applications, REST APIs, and drones.
+  tags: ["professional", "academic", "drones", "penetration testing", "critical infrastructures"]
 
 - name: SEMIOTICS
   #logo: /images/sections/projects/resist.JPG
   role: Developer, Contributor
   timeline: "Jun 2018 - Present"
-  url: "https://www.resistproject.eu/"
+  url: "https://www.semiotics-project.eu/"
   summary: Smart End-to-end Massive IoT Interoperability, Connectivity and Security. Primarily worked on SPHYNX's contribution for multiple deliverables required by the project.
   tags: ["professional", "academic"]
 
@@ -50,19 +52,28 @@ projects:
   #logo: /images/sections/projects/resist.JPG
   role: Developer, Penetration Tester, Contributor
   timeline: "Jun 2018 - Present"
-  url: "https://www.resistproject.eu/"
+  url: "https://www.threat-arrest.eu/"
   summary: "THREAT-ARREST aims to develop an advanced training platform incorporating emulation, simulation, serious gaming and visualization capabilities to
    adequately prepare stakeholders with different types of responsibility and levels of expertise in defending high-risk cyber systems and organizations to
-   counter advanced, known and new cyber-attacks. Primarily worked on the security assurance (i.e., Penetration testing) of THREAT ARREST's Pilot organizations involving the assessment of backend infrastructure (i.e., containers and physical machines) and web applications.
+   counter advanced, known and new cyber-attacks. Primarily worked on the security assurance (i.e., Penetration testing) of THREAT ARREST's Pilot organizations, involving the assessment of backend infrastructure (i.e., containers and physical machines) and web applications.
    Also, worked on the development of the models for the cyber range training scenarios and programmes, and on the development of the scenario/programme adaptation mechanisms."
   tags: ["professional", "academic", "cyber-range", "penetration-testing", "java". "sql"]
+
+- name: SMART BEAR
+  #logo: /images/sections/projects/resist.JPG
+  role: Penetration Tester
+  timeline: "Jun 2018 - Present"
+  url: "https://www.smart-bear.eu/"
+  summary: "Smart Big Data Platform to Offer Evidence-based Personalised Support for Healthy and Independent Living at Home. Primarily worked on the security assurance of (i.e., Penetration testing) of SMART BEAR platform, involving the assessment of front-facing web applications and REST APIs."
+  tags: ["professional", "academic", "healthcare", penetration testing"]
+
 
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
   role: Lead Contributor, Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
   summary: "Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them."
-  tags: ["academic","cyber-range", "UML", "Python"]
+  tags: ["academic","cyber range", "Python"]
 
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
@@ -71,7 +82,7 @@ projects:
   url: "https://www.mdpi.com/2076-3417/11/11/5165"
   summary: "Publication with advances in our model-driven approach of specifying cyber range training scenarios and adaptation mechanisms that allow the
   scenarios to adapt based on the organizations security & privacy posture. Focused on the development of the adaptation mechanisms based on vulnerabilities."
-  tags: ["academic", "cyber-range","UML"]
+  tags: ["academic", "cyber range"]
 
 - name: "RNN-LSTM-Network-Intrusion"
   logo: /images/sections/projects/toha.png
@@ -80,7 +91,7 @@ projects:
   repo: https://github.com/Anihilakos/RNN-LSTM-Network-Intrusion
   summary: A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort. Developed in Python with well known frameworks, such
   as Keras, Numpy, SciLearn and trained using well-known dataset NSL-KDD99.
-  tags: ["academic","bachelor-thesis","deep-learning","network-intrusion-detection", "python"]
+  tags: ["academic","bachelor thesis","deep learning","network intrusion detection", "python"]
 
 - name: "Hackingallthethings"
   logo: /images/sections/projects/toha.png
@@ -90,4 +101,4 @@ projects:
   summary: "Personal page that accumulates resources for penetration testers, red teamers,
   CTF players and generally security and privacy enthusiasts. Its maintained by myself in an
   attempt to help people around the world and provide a centralized place to access technical information about security."
-  tags: ["hobby","open-source","penetration-testing","privacy"]
+  tags: ["hobby","open-source","penetration testing","privacy"]
