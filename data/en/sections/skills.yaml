@@ -18,9 +18,14 @@ skills:
 
 - name: Penetration Testing
   logo: "/images/sections/skills/pentest2.png"
-  summary: "Capable of organizing, orchestrating and executing complete penetration testing assessments (black/white box). With hands-on experience
-  on web applications, android, cloud and active directory and multiple tools and frameworks, such as Metasploit Framework, Nmap, Burp, Hydra, and sqlmap.
-  At last, familiar with frameworks such as OWASP and standards such as PTES. "
+  summary: "Capable of organizing, orchestrating and executing end-to-end penetration testing assessments (black/white box). With hands-on experience
+  on web applications, android, infrastructure, cloud and active directory, as part of multiple EU Projects (e.g., THREAT ARREST, SMART BEAR, RESIST, HOLOBALANCE) and CTF-Like platforms (e.g., HackTheBox, TryHackMe).
+  The engagements were accomplished with multiple tools and frameworks, such as Burp, Metasploit Framework, Nmap, Hydra, and SQLMap, and custom exploitation in Python, C, Ruby and Bash.
+  At last, familiar with frameworks such as OWASP Top 10 for Mobile, Web and APIs and standards such as PTES, and NIST's "
+
+- name: C# and Unity3D
+  logo: "/images/sections/skills/unity.jpg"
+  Summary: "Capable of working on Unity3D with C# for android game development. Also, experienced in Augmented Reality development in Unity3D with Vuforia SDK. This skill was demonstrated in HOLOBALANCE EU Project."
 
 - name: Vagrant
   logo: "/images/sections/skills/vagrant.png"
@@ -61,6 +66,16 @@ skills:
   logo: "/images/sections/skills/linux.jpg"
   summary: "Proficient on working and troubleshooting in a Linux Environment. Having worked with KaliLinux, Debian, Ubuntu, and other distributions."
   url: "https://www.linux.org/"
+
+- name: UML Modelling
+  logo: "/images/sections/skills/uml.jpg"
+  summary: "Proficient with UML Modelling and the core components of well known diagrams (e.g., class, deployment, component). With demonstrated experience on EU Projects (e.g., THREAT ARREST)
+  and my publications. (see achievements below)"
+
+- name: Agile (Jyra)
+  logo: "/images/sections/skills/agile.jpg"
+  summary: "Capable of working and team managing in Agile software development process. With demonstrated experience on Jira as part of EU projects (e.g., HOLOBALANCE), and for SPHYNX's inhouse development."
+
 
 
 # - name: Windows
