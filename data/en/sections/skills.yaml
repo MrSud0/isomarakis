@@ -21,7 +21,7 @@ skills:
   summary: "Capable of organizing, orchestrating and executing end-to-end penetration testing assessments (black/white box). With hands-on experience
   on web applications, android, infrastructure, cloud and active directory, as part of multiple EU Projects (e.g., THREAT ARREST, SMART BEAR, RESIST, HOLOBALANCE) and CTF-Like platforms (e.g., HackTheBox, TryHackMe).
   The engagements were accomplished with multiple tools and frameworks, such as Burp, Metasploit Framework, Nmap, Hydra, and SQLMap, and custom exploitation in Python, C, Ruby and Bash.
-  At last, familiar with frameworks such as OWASP Top 10 for Mobile, Web and APIs and standards such as PTES, and NIST's "
+  At last, familiar with frameworks such as OWASP Top 10 for Mobile, Web and APIs and standards such as PTES, and NIST's. "
 
 - name: C# and Unity3D
   logo: "/images/sections/skills/unity.png"
@@ -72,7 +72,7 @@ skills:
   summary: "Proficient with UML Modelling and the core components of well known diagrams (e.g., class, deployment, component). With demonstrated experience on EU Projects (e.g., THREAT ARREST)
   and my publications. (see achievements below)"
 
-- name: Agile (Jyra)
+- name: Agile (Jira)
   logo: "/images/sections/skills/agile.png"
   summary: "Capable of working and team managing in Agile software development process. With demonstrated experience on Jira as part of EU projects (e.g., HOLOBALANCE), and for SPHYNX's inhouse development."
 
