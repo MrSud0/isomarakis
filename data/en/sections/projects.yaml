@@ -31,18 +31,36 @@ projects:
   tags: ["professional", "academic", "android","unity3D", "penetration-testing"]
 
 - name: RESIST
+  logo: /images/sections/projects/resist.JPG
+  role: Developer and Project Manager
+  timeline: "Jun 2018 - Present"
+  url: "https://www.resistproject.eu/"
+  summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
+  tags: ["professional", "academic", "drones", "penetration-testing"]
+
+- name: SEMIOTICS
+  #logo: /images/sections/projects/resist.JPG
+  role: Developer,  Project Manager
+  timeline: "Jun 2018 - Present"
+  url: "https://www.resistproject.eu/"
+  summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
+  tags: ["professional", "academic", "drones", "penetration-testing"]
+
+- name: THREAT ARREST
   #logo: /images/sections/projects/resist.JPG
   role: Developer and Project Manager
   timeline: "Jun 2018 - Present"
   url: "https://www.resistproject.eu/"
   summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance of the RESIST platform.
   tags: ["professional", "academic", "drones", "penetration-testing"]
+
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
-  role: Lead Contributor and Developer
+  role: Lead Contributor, Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-42051-2_12"
   summary: "Publication for our novel approach in specificing cyber range training scenarios and the interworkings wih SPHYNX's security assurance model. Focused on the developement of the models and the mechanisms that managed them."
   tags: ["academic","cyber-range"]
+
 - name: "CYRA: A Model-Driven CYber Range Assurance Platform"
   logo: /images/sections/projects/no-code.png
   role: Contributor and Developer
@@ -52,7 +70,6 @@ projects:
   scenarios to adapt based on the organizations security & privacy posture. Focused on the development of the adaptation mechanisms based on vulnerabilities."
   tags: ["academic", "cyber-range"]
 
-
 - name: "RNN-LSTM-Network-Intrusion"
   logo: /images/sections/projects/toha.png
   role: Lead author and developer
@@ -60,7 +77,6 @@ projects:
   repo: https://github.com/Anihilakos/RNN-LSTM-Network-Intrusion
   summary: A Deep Learning based anomaly network instrusion solution that was developed to supplement signature-based IDS such as snort.
   tags: ["academic","bachelor-thesis","deep-learning","network-intrusion-detection"]
-
 - name: "Hackingallthethings"
   logo: /images/sections/projects/toha.png
   role: Lead author and maintainer
