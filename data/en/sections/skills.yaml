@@ -20,8 +20,11 @@ skills:
   logo: "/images/sections/skills/pentest2.png"
   summary: "Capable of organizing, orchestrating and executing end-to-end penetration testing assessments (black/white box). With hands-on experience
   on web applications, android, infrastructure, cloud and active directory, as part of multiple EU Projects (see Projects Section) and CTF-Like platforms (e.g., HackTheBox, TryHackMe).
-  Moreover, with practical experience on multiple tools and frameworks, such as Burp, Metasploit Framework, Nmap, Hydra, and SQLMap, and custom exploitation in Python, C, Ruby and Bash.
-  At last, familiar with frameworks such as OWASP Top 10 for Mobile, Web and APIs and standards such as PTES, and NIST's. "
+  Moreover, with practical experience on multiple tools and frameworks, such as Burp, Metasploit Framework, Nmap, Hydra, and SQLMap, Mitre-Caldera and custom exploitation in Python, C, Ruby and Bash.
+  At last, familiar with frameworks such as Mitre Att&Ck, OWASP Top 10 for Mobile, Web and APIs, and standards such as PTES, and NIST's. "
+
+- name: Cyber Range content creator
+
 
 - name: C# and Unity3D
   logo: "/images/sections/skills/unity.png"
