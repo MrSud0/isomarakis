@@ -46,7 +46,7 @@ skills:
 # - name: Cyber Range content creator
 - name: Training Content Engineer
   logo: "/images/sections/skills/pentest2.png"
-  summary: "Capable of designing, implementing and delivering Cybersecurity scenarios for a range of users roles and expertise (from beginner to advanced users), using multiple tools (e.g., articulate for audio/visual, caldera for threat emulation), for multiple domains (e.g., IT, OT, Space).
+  summary: "Capable of designing, implementing and delivering Cybersecurity scenarios for a range of users roles and expertise (from beginner to advanced users), using multiple tools (e.g., articulate for audio/visual, caldera for threat emulation), for multiple domains (e.g., IT, OT, Space)."
 
 - name: C# and Unity3D
   logo: "/images/sections/skills/unity.png"
@@ -97,7 +97,7 @@ skills:
   summary: "Proficient with UML Modelling and the core components of well known diagrams (e.g., class, deployment, component). With demonstrated experience on EU Projects (e.g., THREAT ARREST)
   and my publications. (see achievements below)"
 
-- name: Agile (Jira)
+- name: Agile
   logo: "/images/sections/skills/agile.png"
   summary: "Capable of working and team managing in Agile software development process. With demonstrated experience on Jira as part of EU projects (e.g., HOLOBALANCE), and for SPHYNX's inhouse development."
 
