@@ -4,7 +4,7 @@ name: "Iason Somarakis"
 image: "images/avatar.svg"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "[UPDATE IN PROGRESS] Hi, I am"
 
 contactInfo:
   email: "jason_somarakis@protonmail.com"
