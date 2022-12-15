@@ -11,6 +11,26 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Software Solution Architect
+  logo: "/images/sections/skills/python.jpg"
+  summary: "TBD"
+  # url: "https://www.python.org/"
+  
+- name: Risk Assessment and Security Architect
+  logo: "/images/sections/skills/python.jpg"
+  summary: "TBD"
+  # url: "https://www.python.org/"
+  
+- name: Team Lead
+  logo: "/images/sections/skills/python.jpg"
+  summary: "TBD"
+  #url: "https://www.python.org/"
+  
+- name: Project Management
+  logo: "/images/sections/skills/python.jpg"
+  summary: "TBD"
+  #url: "https://www.python.org/"
+  
 - name: Python Development
   logo: "/images/sections/skills/python.jpg"
   summary: "Capable of designing, developing and testing enterprise python applications. With great experience on multiple frameworks, for RESTful applications (e.g., DJango, Flask), data manipulation (e.g., numpy, pandas), machine learning (e.g., sklearn) and deep learning (e.g., keras)."
@@ -24,7 +44,9 @@ skills:
   At last, familiar with frameworks such as Mitre Att&Ck, OWASP Top 10 for Mobile, Web and APIs, and standards such as PTES, and NIST's. "
 
 # - name: Cyber Range content creator
-
+- name: Training Content Engineer
+  logo: "/images/sections/skills/pentest2.png"
+  summary: "Capable of designing, implementing and delivering Cybersecurity scenarios for a range of users roles and expertise (from beginner to advanced users), using multiple tools (e.g., articulate for audio/visual, caldera for threat emulation), for multiple domains (e.g., IT, OT, Space).
 
 - name: C# and Unity3D
   logo: "/images/sections/skills/unity.png"
