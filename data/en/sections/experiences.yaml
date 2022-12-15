@@ -11,6 +11,38 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: RHEA Group
+    url: "https://www.rheagroup.com/"
+    location: Hybrid
+    overview: Space and systems engineering and cybersecurity solutions. 
+  positions:
+  - designation: Security Engineer
+    start: August 2022
+    end: present 
+    responsibilities:
+    - Designing and developing cybersecurity training scenarios in the domain of IT, Critical Infrastructure (e.g., OT) and Space  
+    - Researching and implementing approaches of exploitation in the domain of IT, OT and Space   
+    - Delivering cybersecurity training in physical location, or remotely
+    - Designing and developing asset and threat emulation/simulation solutions in manufacturing 
+    - Contributing on the quality assurance of documentation and training content 
+    
+ - company:
+    name: SYRAX IKE
+    location: Hybrid
+    overview: Cybersecurity and Technology Solutions and Services 
+  positions:
+  - designation: CEO, Solution and Security Architect
+    start: January 2023 
+    end: present 
+    responsibilities:
+    - Management
+    - Designing the software architecture for software solutions
+    - Designing the security of software solutions and systems
+    - Designing the security of cloud infrastructure
+    - Performing risk analysis based on well known stanrdards (e.g., ATT&CK MITRE) 
+    - Performing technical security assessments (e.g., penetrationg testing, bughunting)
+
+- company:
     name: SPHYNX Technology Solutions
     url: "https://sphynx.ch"
     location: Cyprus
