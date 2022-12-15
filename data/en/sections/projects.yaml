@@ -23,6 +23,24 @@ buttons:
 
 # your projects
 projects:
+- name: RHEA Internal Scenario Engineering
+  timeline: August 2022 - Present"
+  role: Developer, Contributor 
+  #summary: 
+  tags: ["professional", "Industry", "Space", "Threat Emulation", "Training Content Development"]
+
+- name: Protect and Allow Exchange of Manufacturing Data (PAEMD)
+  timeline: August 2022 - Present"
+  role: Developer, Contributor 
+  #summary: Study to 
+  tags: ["professional", "Industry", "Space", "OT","IT","Threat Emulation", "Data flow simulation"]
+  
+- name: Security Cyber Center of Excellence (SCCoE)
+  timeline: August 2022 - Present"
+  role: Training Content Engineer, Contributor
+  #summary:
+  tags: ["professional", "Industry", "Space", "OT","IT","Threat Emulation", "Training Content Development"]
+  
 - name: HOLOBALANCE
   #logo: /images/sections/projects/holobalance.gif
   role: Developer, Penetration Tester, Project Manager
@@ -35,7 +53,7 @@ projects:
 - name: RESIST
   logo: /images/sections/projects/resist.JPG
   role: Developer, Penetration Tester, Project Manager
-  timeline: "Jun 2018 - Present"
+  timeline: "Jun 2018 - August 2022"
   url: "https://www.resistproject.eu/"
   summary: Resilient Transport Infrastructure to Extreme Event. Primarily worked on the integration of SPHYNX's solution in RESIST platform and the security assurance (i.e., Penetration Testing, project wide security recommendations) of the RESIST platform, involving the assessment of backend infrastructure (e.g., ProxMox virtual machines), front-facing web applications, REST APIs, and drones.
   tags: ["professional", "academic", "drones", "penetration testing", "critical infrastructures"]
@@ -43,7 +61,7 @@ projects:
 - name: SEMIOTICS
   #logo: /images/sections/projects/resist.JPG
   role: Developer, Contributor
-  timeline: "Jun 2018 - Present"
+  timeline: "Jun 2018 - August 2021"
   url: "https://www.semiotics-project.eu/"
   summary: Smart End-to-end Massive IoT Interoperability, Connectivity and Security. Primarily worked on SPHYNX's contribution for multiple deliverables required by the project.
   tags: ["professional", "academic"]
@@ -51,7 +69,7 @@ projects:
 - name: THREAT ARREST
   #logo: /images/sections/projects/resist.JPG
   role: Developer, Penetration Tester, Contributor
-  timeline: "Jun 2018 - Present"
+  timeline: "Jun 2018 - August 2021"
   url: "https://www.threat-arrest.eu/"
   summary: "THREAT-ARREST aims to develop an advanced training platform incorporating emulation, simulation, serious gaming and visualization capabilities to
    adequately prepare stakeholders with different types of responsibility and levels of expertise in defending high-risk cyber systems and organizations to
@@ -62,11 +80,10 @@ projects:
 - name: SMART BEAR
   #logo: /images/sections/projects/resist.JPG
   role: Penetration Tester
-  timeline: "Jun 2018 - Present"
+  timeline: "Jun 2018 - August 2022"
   url: "https://www.smart-bear.eu/"
   summary: "Smart Big Data Platform to Offer Evidence-based Personalised Support for Healthy and Independent Living at Home. Primarily worked on the security assurance of (i.e., Penetration testing) of SMART BEAR platform, involving the assessment of front-facing web applications and REST APIs."
   tags: ["professional", "academic", "healthcare", "penetration testing"]
-
 
 - name: "Model-Driven Cyber Range Training: A Cyber Security Assurance Perspective"
   role: Lead Contributor, Developer
@@ -93,12 +110,12 @@ projects:
   as Keras, Numpy, SciLearn and trained using well-known dataset NSL-KDD99."
   tags: ["academic","bachelor thesis","deep learning","network intrusion detection", "python"]
 
-- name: "Hackingallthethings"
-  logo: /images/sections/projects/toha.png
-  role: Lead author and maintainer
-  timeline: "Dec 2021"
-  repo: https://github.com/Anihilakos/hackingallthethings
-  summary: "Personal page that accumulates resources for penetration testers, red teamers,
-  CTF players and generally security and privacy enthusiasts. Its maintained by myself in an
-  attempt to help people around the world and provide a centralized place to access technical information about security."
-  tags: ["hobby","open-source","penetration testing","privacy"]
+# - name: "Hackingallthethings"
+#   logo: /images/sections/projects/toha.png
+#   role: Lead author and maintainer
+#   timeline: "Dec 2021"
+#   repo: https://github.com/Anihilakos/hackingallthethings
+#   summary: "Personal page that accumulates resources for penetration testers, red teamers,
+#   CTF players and generally security and privacy enthusiasts. Its maintained by myself in an
+#   attempt to help people around the world and provide a centralized place to access technical information about security."
+#   tags: ["hobby","open-source","penetration testing","privacy"]
