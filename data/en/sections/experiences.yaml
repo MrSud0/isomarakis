@@ -23,11 +23,11 @@ experiences:
     - Designing and developing cybersecurity training scenarios in the domain of IT, Critical Infrastructure (e.g., OT) and Space  
     - Researching and implementing approaches of exploitation in the domain of IT, OT and Space   
     - Delivering cybersecurity training in physical location, or remotely
-    - Designing and developing asset and threat emulation/simulation solutions in manufacturing 
+    - Designing and developing asset and threat emulation/simulation solutions in manufacturing supply chain
     - Contributing on the quality assurance of documentation and training content 
     
 - company:
-    name: SYRAX IKE
+    name: RAVEN CYBERSECURITY IKE
     location: Hybrid
     overview: Cybersecurity and Technology Solutions and Services 
   positions:
@@ -38,10 +38,8 @@ experiences:
     - Management
     - Designing the software architecture for software solutions
     - Designing the security of software solutions and systems
-    - Designing the security of cloud infrastructure
-    - Performing risk analysis based on well known stanrdards (e.g., ATT&CK MITRE) 
+    - Performing risk analysis and threat modelling based on well known stanrdards (e.g., STRIDE, ATT&CK MITRE) 
     - Performing technical security assessments (e.g., penetrationg testing, bughunting)
-
 - company:
     name: SPHYNX Technology Solutions
     url: "https://sphynx.ch"
